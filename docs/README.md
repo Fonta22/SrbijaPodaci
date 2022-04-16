@@ -1,6 +1,8 @@
 # Србија Подаци
-<img src="../srbija.svg" style="height: 40px"><br>
 Web page that shows you data of **Serbia**.
+<br>
+<br>
+<img src="../srbija.svg" style="height: 40px">
 
 ## Features
 - Table with data
