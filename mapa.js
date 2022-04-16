@@ -5,7 +5,8 @@ const coords = {
     lon: 20.9224
 }
 
-const mymap = L.map('SrbijaMapa').setView([coords.lat, coords.lon], 6);
+const zoom = 7;
+const mymap = L.map('SrbijaMapa').setView([coords.lat, coords.lon], zoom);
 
 const attribution =
     '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> contributors';
